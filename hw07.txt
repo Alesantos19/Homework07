@@ -1,3 +1,4 @@
+HELLO THERE
 Homework 7 text file created by emacs
 
 Change on Github
