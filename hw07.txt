@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 HELLO THERE CSCI-C151
+=======
+HELLO THERE 
+>>>>>>> b69af3e73e13da5ad36ad330de927b5d2876cf57
 Homework 7 text file created by emacs
 
 Change on Github
